@@ -1,0 +1,56 @@
+leftnav:
+- identifier: 670f62c7-24ab-4a5a-87d0-4af55c66ac6d
+  name: page
+  pageRef: /pages/page
+  weight: 10
+- identifier: 79392061-a205-4e93-83f2-276dbc9668e6
+  name: Resource List
+  pageRef: /lists/a-resource-list
+  weight: 20
+- identifier: 1aeed841-7d59-4f64-90ae-7f000d2b28e3
+  name: video
+  pageRef: /pages/video
+  weight: 30
+- identifier: af01097c-fe8b-477f-bd4c-efc97c886568
+  name: Lecture 1
+  pageRef: /pages/lecture-1
+  weight: 40
+- identifier: 4ebc20bb-8c06-4621-b0cb-67c8a8762065
+  name: Lecture 2
+  pageRef: /pages/lecture-2
+  weight: 50
+- identifier: 054df814-7346-4085-849f-94d3c785fd6f
+  name: Lecture 1.1
+  pageRef: /pages/lecture-11
+  parent: af01097c-fe8b-477f-bd4c-efc97c886568
+  weight: 10
+- identifier: e3beb3aa-d340-40ed-827d-75ab77ba4387
+  name: Lecture 1.2
+  pageRef: /pages/lecture-12
+  parent: af01097c-fe8b-477f-bd4c-efc97c886568
+  weight: 20
+- identifier: 2ab14f42-a268-4399-b9aa-f60e759121d7
+  name: Lecture 1.3
+  pageRef: /pages/lecture-13
+  parent: af01097c-fe8b-477f-bd4c-efc97c886568
+  weight: 30
+- identifier: cf664b6d-e86e-4fe5-99e4-9ef4d25f85bd
+  name: Lecture 1.4
+  pageRef: /pages/lecture-14
+  parent: af01097c-fe8b-477f-bd4c-efc97c886568
+  weight: 40
+- identifier: c6be8117-e291-41a6-a307-aca050a1bfda
+  name: Lecture 1.3.1
+  pageRef: /pages/lecture-131
+  parent: 2ab14f42-a268-4399-b9aa-f60e759121d7
+  weight: 10
+- identifier: 6249da34-91eb-4736-a90c-bdb296260080
+  name: Lecture 1.3.2
+  pageRef: /pages/lecture-132
+  parent: 2ab14f42-a268-4399-b9aa-f60e759121d7
+  weight: 20
+- identifier: 491590d8-90e4-455a-b8a1-1634a5747e35
+  name: Lecture 1.3.3
+  pageRef: /pages/lecture-133
+  parent: 2ab14f42-a268-4399-b9aa-f60e759121d7
+  weight: 30
