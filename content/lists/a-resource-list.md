@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: "description res list\_\n\n\_\n\nlkjhg"
+description: "description res list\_\n\n\_\n\n*lkjhg*"
 draft: false
 resources:
   content:
