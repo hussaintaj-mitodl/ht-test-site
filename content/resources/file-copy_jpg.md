@@ -6,8 +6,17 @@ file: /media/courses/1-ht-test-site-spring-2023/file-copy.jpg
 file_size: 7481680
 file_type: image/jpeg
 image_metadata:
-  caption: ''
-  credit: ''
+  caption: 'sadasdasd
+
+
+    *dasasdasd*'
+  credit: 'assasasad
+
+
+    *dsasadsda*
+
+
+    sadsda'
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
